@@ -1,5 +1,5 @@
 # LeetCode
 
 ### Python3 를 공부하고, 문제 풀이를 올리는 공간이다.
-#### The LeetCode Beginner's Guide 
-#### -> 1480, 1672
+> The LeetCode Beginner's Guide 
+>> -> 1480, 1672
