@@ -1,3 +1,8 @@
+## 2023.08.14 Mon
+## 383. 랜섬 노트
+### 두 문자열 ransomNote 와 magazine 이 주어졌을 때,
+### 만약 ransomNote 가 magazine 으로부터 그 문자들을 사용하 구성될 수 있을 때, true 값을 반환하고 그렇지 않다면 false 값을 반환하라.
+### magazine 에 있는 각 문자는 ransomNote에서 오직 한 번만 사용될 수 있다.
 
 # ======= case 01 =======
 class Solution:
