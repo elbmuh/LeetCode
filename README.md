@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode and so on.
 
 ### Python3 를 공부하고, 문제 풀이를 올리는 공간이다.
 > The LeetCode Beginner's Guide 
@@ -8,3 +8,4 @@
 >> 4. 1342 Number of Steps to Reduce a Number to Zero
 >> 5. 876 Middle of The Linked List
 >> 6. 383 Ransom Note
+
